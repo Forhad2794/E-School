@@ -1,0 +1,106 @@
+header {
+    background-color: #F0FFF0;
+}
+
+
+.container {
+    margin-bottom: 100px;
+
+}
+
+.green-button {
+    padding: 10px 20px;
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+
+nav img {
+    height: 50px;
+}
+
+.row img {
+    max-width: 100%;
+}
+
+.top-banner {
+    padding: 20px 40px;
+}
+
+.top-banner-text h5 {
+    color: #FD511A;
+    font-weight: 400;
+}
+
+.top-banner-text h1 {
+    font-weight: 700;
+}
+
+.overview img {
+    height: 85px;
+
+}
+
+.overview .col-md-3 {}
+
+.ovr1,
+.ovr2,
+.ovr3,
+.ovr4 {
+    height: 200px;
+    width: 100%;
+    box-shadow: 3px 6px 15px lightgray;
+    background-color: #F8FFFB;
+    transition: .3s;
+
+
+}
+
+.ovr1:hover,
+.ovr2:hover,
+.ovr3:hover,
+.ovr4:hover {
+    background-color: white;
+    box-shadow: 5px 10px 30px lightgray;
+}
+
+.course h1 {
+    color: #413960;
+    margin-bottom: 50px;
+}
+
+.dat-text img {
+    max-width: 24px;
+}
+
+.testimonial img {
+    width: 150px;
+}
+
+.testimonial h1 {
+    margin-bottom: 50px;
+}
+
+.testimonial-section {
+
+    margin: auto;
+}
+
+.content {}
+
+footer {
+    background-color: #282531;
+    color: white;
+}
+
+footer {
+    padding: 25px 0px;
+}
+
+footer p a {
+    text-decoration: none;
+    color: white;
+
+
+}
